@@ -18,3 +18,7 @@
 修改自厦门大学的ppt模板
 
 该模板更多信息查看 https://github.com/F5Soft/xmu-template
+
+
+其他模板推荐：
+https://github.com/GrokCV/TemplateMC
